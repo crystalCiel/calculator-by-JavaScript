@@ -18,7 +18,8 @@ body {
     // height: 500px;
     border: black 1px solid;
     padding: 10px 15px;
-    background-color: gainsboro;
+    background-color:steelblue;
+    border-radius: 10px;
 
     > #displayPanel {
         width: 98%;
@@ -51,9 +52,10 @@ body {
             height: 50px;
             // width: 60px;
             // outline: none;
-            border: 0px;
+            border: 1px lightblue solid;
             border-radius: 5%;
             font-size: 20px;
+            background-color: skyblue;
 
             &.hovering {
                 filter: brightness(0.8);

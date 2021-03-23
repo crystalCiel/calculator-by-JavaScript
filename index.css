@@ -14,7 +14,8 @@ body {
   width: 455px;
   border: black 1px solid;
   padding: 10px 15px;
-  background-color: gainsboro;
+  background-color: steelblue;
+  border-radius: 10px;
 }
 #calculator > #displayPanel {
   width: 98%;
@@ -42,9 +43,10 @@ body {
 }
 #calculator > #keyBoardGroup > .calculatorBtn {
   height: 50px;
-  border: 0px;
+  border: 1px lightblue solid;
   border-radius: 5%;
   font-size: 20px;
+  background-color: skyblue;
 }
 #calculator > #keyBoardGroup > .calculatorBtn.hovering {
   filter: brightness(0.8);

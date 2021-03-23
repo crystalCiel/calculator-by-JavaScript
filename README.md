@@ -7,7 +7,7 @@
 滑鼠、手指與鍵盤按鍵皆可點擊 計算機 / 小算盤 按鍵，做基礎的數學計算
 
 ## 成品
-[Demo]( https://crystalciel.github.io/calculator-by-JavaScript/index.html )
+[Demo]( https://crystalciel.github.io/calculator-by-JavaScript/ )
 
 ## 心得 / 心路歷程
 
